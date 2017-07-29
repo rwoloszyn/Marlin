@@ -126,7 +126,7 @@
  * M25  - Pause SD print
  * M26  - Set SD position in bytes (M26 S12345)
  * M27  - Report SD print status
- * M28  - Start SD write (M28 filename.g)
+ * M28  - Start SD write (M28 filename.g)   
  * M29  - Stop SD write
  * M30  - Delete file from SD (M30 filename.g)
  * M31  - Output time since last M109 or SD card start to serial
@@ -146,7 +146,7 @@
  * M85  - Set inactivity shutdown timer with parameter S<seconds>. To disable set zero (default)
  * M92  - Set axis_steps_per_unit - same syntax as G92
  * M104 - Set extruder target temp
- * M105 - Read current temp
+ * M105 - Read current temp   
  * M106 - Fan on
  * M107 - Fan off
  * M109 - Sxxx Wait for extruder current temp to reach target temp. Waits only when heating
